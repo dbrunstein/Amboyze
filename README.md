@@ -1,8 +1,7 @@
 # Amboyze
 ### _Jeux sérieux sur la montée sociale à la renaissance_
 
-Plongez au cœur de la Renaissance à Amboise, siège du roi de France, dans ce jeu éducatif dans lequel vous pourrez explorer une société où les castes paysannes, marchandes et royales ont chacune leur place.
-***Amboize*** offre une plongée immersive dans l'histoire, mêlant éducation et divertissement pour explorer les complexités des relations socio-économiques à une époque importante de l'histoire française.
+Plongez au cœur de la Renaissance à Amboise, siège du roi de France, dans ce jeu éducatif 
 
 ![Image du menu du jeu](images/menu.png)
 
@@ -12,9 +11,10 @@ Plongez au cœur de la Renaissance à Amboise, siège du roi de France, dans ce 
 
 
 ## Téléchargement
+*Ce jeu nécessite l'installation de Godot*
 
-Nous n'avons pas eu le temps de faire un exécutable. Il suffira de télécharger le fichier game est lancer le jeux directement depuis 
-l'environement Godot.
+1) Télécharger l'archive/cloner le projet
+2) 
 
 ## Documentation
 
@@ -29,3 +29,4 @@ l'environement Godot.
    [gamedl]: <Amboise.exe>
    [wiki]: <WIKI.md>
    [godot]: <https://godotengine.org/>
+   [godotDownload]: <https://godotengine.org/download/>
