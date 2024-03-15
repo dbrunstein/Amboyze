@@ -13,7 +13,7 @@ Plongez au cœur de la Renaissance à Amboise, siège du roi de France, dans ce 
 ## Téléchargement
 *Ce jeu nécessite l'installation de [Godot][godotDownload]*
 
-1) Télécharger l'archive/cloner le projet
+1) Télécharger/cloner le projet
 2) À partir de Godot, lancer le projet *project.godot* présent dans game
 
 ## Documentation
